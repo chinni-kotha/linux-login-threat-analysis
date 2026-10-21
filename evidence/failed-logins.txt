@@ -1,0 +1,5 @@
+Oct 21 10:00:01 kali sshd[2101]: Failed password for invalid user admin from 192.0.2.50 port 50101 ssh2
+Oct 21 10:00:05 kali sshd[2102]: Failed password for invalid user admin from 192.0.2.50 port 50102 ssh2
+Oct 21 10:00:09 kali sshd[2103]: Failed password for invalid user admin from 192.0.2.50 port 50103 ssh2
+Oct 21 10:00:13 kali sshd[2104]: Failed password for invalid user admin from 192.0.2.50 port 50104 ssh2
+Oct 21 10:00:17 kali sshd[2105]: Failed password for invalid user admin from 192.0.2.50 port 50105 ssh2

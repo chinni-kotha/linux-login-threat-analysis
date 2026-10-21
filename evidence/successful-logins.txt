@@ -1,0 +1,2 @@
+Oct 21 10:01:00 kali sshd[2106]: Accepted password for analyst from 192.0.2.50 port 50106 ssh2
+Oct 21 10:05:00 kali sshd[2107]: Accepted password for analyst from 192.0.2.10 port 50201 ssh2
